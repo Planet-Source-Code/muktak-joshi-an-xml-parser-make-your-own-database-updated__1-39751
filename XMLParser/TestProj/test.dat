@@ -1,0 +1,57 @@
+<table name=family>
+<structure>
+	<column>Name</column>
+	<column>Address</column>
+	<column>Age</column>
+	<column>Telephone</column>
+</structure>
+<data>
+	<entry>
+		<name>Muktak Joshi</name>
+		<address>28,Jaynagar New Usmanpura, Aurangabad</address>
+		<age>19</age>
+		<telephone>337708</telephone>
+	</entry>
+	<entry>
+		<name>Satyak Joshi</name>
+		<address>28,Jaynagar New Usmanpura, Aurangabad</address>
+		<age>12</age>
+		<telephone>337708</telephone>
+	</entry>
+	<entry>
+		<name>Shodhan Joshi</name>
+		<address>28,Jaynagar New Usmanpura, Aurangabad</address>
+		<age>47</age>
+		<telephone>337708</telephone>
+	</entry>
+	<entry>
+		<name>Swati Joshi</name>
+		<address>28,Jaynagar New Usmanpura, Aurangabad</address>
+		<age>42</age>
+		<telephone>337708</telephone>
+	</entry>
+</data>
+</table>
+<table name=friends>
+<structure>
+	<column>Name</column>
+	<column>Age</column>
+</structure>
+<data>
+	<entry>
+		<name>Vikram</name>
+		<age>19</age>
+	</entry>
+	<entry>
+		<name>akhil</name>
+		<age>20</age>
+	</entry>
+	<entry>
+		<name>ketan</name>
+		<age>19</age>
+	</entry>
+	<entry>
+		<name>sameer</name>
+		<age>20</age>
+	</entry>
+</data>
